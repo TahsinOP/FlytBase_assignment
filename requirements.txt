@@ -1,0 +1,5 @@
+numpy>=1.21.0
+matplotlib>=3.4.0
+pytest>=6.2.5
+pillow>=8.0.0  # For saving animations
+plotly>=5.18.0 
